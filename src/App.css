@@ -1,0 +1,19 @@
+table {
+  margin: auto;
+  border: 3px solid black;
+
+  text-align: center;
+
+}
+
+form {
+  margin: auto;
+  border: 2px solid black;
+  text-align: center;
+  border-radius: 12px;
+  padding: 2rem;
+}
+
+form>* {
+  margin: 1rem;
+}
